@@ -21,7 +21,7 @@ Then, it suffices to consider L = even. \
  \
 The notebook “Users.nb” has two main functions. \
 a. Retrieve the Murua coefficient of a given graph. \
-b. Illustrate how the Murua formula works for a given graph. \ 
+b. Illustrate how the Murua formula works for a given graph. \
 Examples are given in Chapter 4 of the notebook. \
  \
 A known Issue. \
