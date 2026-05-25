@@ -12,12 +12,12 @@ V = 5, L = 0, 1, 2, 3, 4, 5, 6 \
 V = 6, L = 0, 1, 2, 3, 4 \
 V = 7, L = 0, 1, 2 \
  \
-We focus on "primary" graphs with no "banana loops" .\ 
+We focus on "primary" graphs with no "banana loops". \ 
 Up to V = 5, our data exhausts all possible values of L. \ 
 For V = 6, 7, due to limited computational resources, we stop at low values of L. \
  \
 In the BW basis, we suppress the cut propagators, as they do not directly affect Murua coefficients,\
-Then, it suffices to consider L = even.\
+Then, it suffices to consider L = even. \
  \
 The notebook “Users.nb” has two main functions. \ 
 a. Retrieve the Murua coefficient of a given graph. \ 
