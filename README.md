@@ -22,7 +22,7 @@ Then, it suffices to consider L = even. \
 The notebook “Users.nb” has two main functions. \
 a. Retrieve the Murua coefficient of a given graph. \
 b. Illustrate how the Murua formula works for a given graph. \ 
-Examples are given in Chapter 4. Readers are encouraged to play with more examples. \
+Examples are given in Chapter 4 of the notebook. \
  \
 A known Issue. \
-Banana loops may not be correctly displayed if you are using Mathematica version lower than 12.1. \
+Banana loops may not be correctly displayed if you are using Mathematica version lower than 12.1.
