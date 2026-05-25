@@ -13,7 +13,7 @@ V = 6, L = 0, 1, 2, 3, 4 \
 V = 7, L = 0, 1, 2 \
  \
 We focus on "primary" graphs with no "banana loops". \
-Up to V = 5, our data exhausts all possible values of L. \
+Up to V = 5, our data exhausts all possible values of L of a primary graph. \
 For V = 6, 7, due to limited computational resources, we stop at low values of L. \
  \
 In the BW basis, we suppress the cut propagators, as they do not directly affect Murua coefficients. \
